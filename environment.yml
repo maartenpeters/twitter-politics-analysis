@@ -1,0 +1,14 @@
+name: fods-twitter
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - black # Code formatting tool, very handy
+  - pandas
+  - numpy
+  - scipy
+  - tweepy
+  - matplotlib
+  - jupyter
